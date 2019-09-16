@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # starbase
 
 > A Vue.js project
@@ -16,3 +17,6 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# vue_starbase
+>>>>>>> 1c3b2de30ba3058352a32e5e5e09e8bcd1778cae
